@@ -18,6 +18,7 @@ The calculator uses a rule-based engine to match symptoms with typical failure m
 ## Try the live version
 The full working calculator is available online:  
 [Онлайн-диагностика и расчёт ремонта гидронасоса](https://gidroremont.by/uslugi-gidroremonta/remont-gidravlicheskih-uzlov/remont-gidronasosov/)
+
 <img width="636" height="464" alt="hydraulic-pump-calculator-ui" src="https://github.com/user-attachments/assets/6ea347b1-cda6-4c35-b5d4-34f89cd8b80b" />
 
 ---
